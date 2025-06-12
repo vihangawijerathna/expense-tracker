@@ -102,6 +102,15 @@ button:hover {
   background-color: #3700b3;
 }
 
+.delete {
+  background-color: #ff0000;
+  margin-left: 10px;
+}
+
+.delete:hover {
+  background-color: #b30000;
+}
+
 /* Footer styles */
 .footer {
   width: 100%;
